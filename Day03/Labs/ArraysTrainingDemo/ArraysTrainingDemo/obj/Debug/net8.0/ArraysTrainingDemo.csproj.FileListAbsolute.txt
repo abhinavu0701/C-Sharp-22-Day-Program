@@ -1,0 +1,14 @@
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net8.0\ArraysTrainingDemo.exe
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net8.0\ArraysTrainingDemo.deps.json
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net8.0\ArraysTrainingDemo.runtimeconfig.json
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net8.0\ArraysTrainingDemo.dll
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\bin\Debug\net8.0\ArraysTrainingDemo.pdb
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\ArraysTrainingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\ArraysTrainingDemo.AssemblyInfoInputs.cache
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\ArraysTrainingDemo.AssemblyInfo.cs
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\ArraysTrainingDemo.csproj.CoreCompileInputs.cache
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\ArraysTrainingDemo.dll
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\refint\ArraysTrainingDemo.dll
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\ArraysTrainingDemo.pdb
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\ArraysTrainingDemo.genruntimeconfig.cache
+C:\Abhinav\ArraysTrainingDemo\ArraysTrainingDemo\obj\Debug\net8.0\ref\ArraysTrainingDemo.dll
