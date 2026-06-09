@@ -1,0 +1,14 @@
+C:\Abhinav\PatientQueue\PatientQueue\bin\Debug\net8.0\PatientQueue.exe
+C:\Abhinav\PatientQueue\PatientQueue\bin\Debug\net8.0\PatientQueue.deps.json
+C:\Abhinav\PatientQueue\PatientQueue\bin\Debug\net8.0\PatientQueue.runtimeconfig.json
+C:\Abhinav\PatientQueue\PatientQueue\bin\Debug\net8.0\PatientQueue.dll
+C:\Abhinav\PatientQueue\PatientQueue\bin\Debug\net8.0\PatientQueue.pdb
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\PatientQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\PatientQueue.AssemblyInfoInputs.cache
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\PatientQueue.AssemblyInfo.cs
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\PatientQueue.csproj.CoreCompileInputs.cache
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\PatientQueue.dll
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\refint\PatientQueue.dll
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\PatientQueue.pdb
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\PatientQueue.genruntimeconfig.cache
+C:\Abhinav\PatientQueue\PatientQueue\obj\Debug\net8.0\ref\PatientQueue.dll
