@@ -1,0 +1,14 @@
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net8.0\HealthcareDecisionApp.exe
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net8.0\HealthcareDecisionApp.deps.json
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net8.0\HealthcareDecisionApp.runtimeconfig.json
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net8.0\HealthcareDecisionApp.dll
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\bin\Debug\net8.0\HealthcareDecisionApp.pdb
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\HealthcareDecisionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\HealthcareDecisionApp.AssemblyInfoInputs.cache
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\HealthcareDecisionApp.AssemblyInfo.cs
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\HealthcareDecisionApp.csproj.CoreCompileInputs.cache
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\HealthcareDecisionApp.dll
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\refint\HealthcareDecisionApp.dll
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\HealthcareDecisionApp.pdb
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\HealthcareDecisionApp.genruntimeconfig.cache
+C:\Abhinav\HealthcareDecisionApp\HealthcareDecisionApp\obj\Debug\net8.0\ref\HealthcareDecisionApp.dll
