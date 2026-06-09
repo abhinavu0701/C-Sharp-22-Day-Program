@@ -1,4 +1,0 @@
-C:\Abhinav\Day02_Assignment5\Day02_Assignment5\obj\Debug\net8.0\Day02_Assignment5.GeneratedMSBuildEditorConfig.editorconfig
-C:\Abhinav\Day02_Assignment5\Day02_Assignment5\obj\Debug\net8.0\Day02_Assignment5.AssemblyInfoInputs.cache
-C:\Abhinav\Day02_Assignment5\Day02_Assignment5\obj\Debug\net8.0\Day02_Assignment5.AssemblyInfo.cs
-C:\Abhinav\Day02_Assignment5\Day02_Assignment5\obj\Debug\net8.0\Day02_Assignment5.csproj.CoreCompileInputs.cache
