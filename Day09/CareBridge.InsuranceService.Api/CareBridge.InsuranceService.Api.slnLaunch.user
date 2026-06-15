@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CareBridge.Api\\CareBridge.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
