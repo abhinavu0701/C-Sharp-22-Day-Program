@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\migrations\\20260616083955_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\migrations\\20260616083955_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\data\\carebridgedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\data\\carebridgedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\services\\insuranceserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\services\\insuranceserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\services\\iinsuranceserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\services\\iinsuranceserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\dto\\insuranceverificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\dto\\insuranceverificationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.api\\dto\\insuranceverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7360F423-C53C-486E-B3FD-32CA73700552}|CareBridge.Api\\CareBridge.Api.csproj|solutionrelative:carebridge.api\\dto\\insuranceverificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.insuranceservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|solutionrelative:carebridge.insuranceservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.insuranceservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|solutionrelative:carebridge.insuranceservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.insuranceservice.api\\controllers\\eligibilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|solutionrelative:carebridge.insuranceservice.api\\controllers\\eligibilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.insuranceservice.api\\models\\eligibilityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|solutionrelative:carebridge.insuranceservice.api\\models\\eligibilityresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|c:\\abhinav\\carebridge.insuranceservice.api\\carebridge.insuranceservice.api\\models\\eligibilityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020FA5F6-C55A-45AD-98C1-0601023D3CA0}|CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api.csproj|solutionrelative:carebridge.insuranceservice.api\\models\\eligibilityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260616083955_AddIdentityTables.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Migrations\\20260616083955_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Migrations\\20260616083955_AddIdentityTables.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Migrations\\20260616083955_AddIdentityTables.cs",
+              "RelativeToolTip": "CareBridge.Api\\Migrations\\20260616083955_AddIdentityTables.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAMkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:39:55.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CareBridge.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAAAAEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T08:27:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Program.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Program.cs",
+              "RelativeToolTip": "CareBridge.Api\\Program.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAmwLcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:30:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\DTO\\RegisterRequest.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\RegisterRequest.cs",
+              "RelativeToolTip": "CareBridge.Api\\DTO\\RegisterRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T06:41:46.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "CareBridge.Api\\wwwroot\\index.html",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\wwwroot\\index.html",
+              "RelativeToolTip": "CareBridge.Api\\wwwroot\\index.html",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAAPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-15T09:23:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CareBridgeDbContext.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Data\\CareBridgeDbContext.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Data\\CareBridgeDbContext.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Data\\CareBridgeDbContext.cs",
+              "RelativeToolTip": "CareBridge.Api\\Data\\CareBridgeDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:22:03.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CareBridge.Api\\appsettings.json",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\appsettings.json",
+              "RelativeToolTip": "CareBridge.Api\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T08:24:22.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "CareBridge.Api\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T09:09:26.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "CareBridge.Api\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T06:43:22.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\DTO\\AuthResponse.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\AuthResponse.cs",
+              "RelativeToolTip": "CareBridge.Api\\DTO\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T06:44:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "CareBridge.Api\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T06:38:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsuranceServiceClient.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Services\\InsuranceServiceClient.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Services\\InsuranceServiceClient.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Services\\InsuranceServiceClient.cs",
+              "RelativeToolTip": "CareBridge.Api\\Services\\InsuranceServiceClient.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:43:08.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InsuranceVerificationResult.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\InsuranceVerificationResult.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\DTO\\InsuranceVerificationResult.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\InsuranceVerificationResult.cs",
+              "RelativeToolTip": "CareBridge.Api\\DTO\\InsuranceVerificationResult.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:32:59.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CareBridge.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T07:06:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InsuranceVerificationRequest.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\InsuranceVerificationRequest.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\DTO\\InsuranceVerificationRequest.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\DTO\\InsuranceVerificationRequest.cs",
+              "RelativeToolTip": "CareBridge.Api\\DTO\\InsuranceVerificationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:31:47.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IInsuranceServiceClient.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Services\\IInsuranceServiceClient.cs",
+              "RelativeDocumentMoniker": "CareBridge.Api\\Services\\IInsuranceServiceClient.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.Api\\Services\\IInsuranceServiceClient.cs",
+              "RelativeToolTip": "CareBridge.Api\\Services\\IInsuranceServiceClient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T08:39:14.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CareBridge.InsuranceService.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CareBridge.InsuranceService.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-15T06:36:18.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CareBridge.InsuranceService.Api\\Program.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Program.cs",
+              "RelativeToolTip": "CareBridge.InsuranceService.Api\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T07:00:54.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EligibilityController.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Controllers\\EligibilityController.cs",
+              "RelativeDocumentMoniker": "CareBridge.InsuranceService.Api\\Controllers\\EligibilityController.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Controllers\\EligibilityController.cs",
+              "RelativeToolTip": "CareBridge.InsuranceService.Api\\Controllers\\EligibilityController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:46:31.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EligibilityResponse.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Models\\EligibilityResponse.cs",
+              "RelativeDocumentMoniker": "CareBridge.InsuranceService.Api\\Models\\EligibilityResponse.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Models\\EligibilityResponse.cs",
+              "RelativeToolTip": "CareBridge.InsuranceService.Api\\Models\\EligibilityResponse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:40:07.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EligibilityRequest.cs",
+              "DocumentMoniker": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Models\\EligibilityRequest.cs",
+              "RelativeDocumentMoniker": "CareBridge.InsuranceService.Api\\Models\\EligibilityRequest.cs",
+              "ToolTip": "C:\\Abhinav\\CareBridge.InsuranceService.Api\\CareBridge.InsuranceService.Api\\Models\\EligibilityRequest.cs",
+              "RelativeToolTip": "CareBridge.InsuranceService.Api\\Models\\EligibilityRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T06:38:58.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

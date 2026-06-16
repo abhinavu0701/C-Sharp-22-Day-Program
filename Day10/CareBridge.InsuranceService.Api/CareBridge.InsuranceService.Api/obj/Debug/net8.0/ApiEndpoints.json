@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "CareBridge.InsuranceService.Api.Controllers.EligibilityController",
+    "Method": "SetChaosMode",
+    "RelativePath": "api/eligibility/chaos-mode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareBridge.InsuranceService.Api.Controllers.EligibilityController",
+    "Method": "GetChaosMode",
+    "RelativePath": "api/eligibility/chaos-mode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CareBridge.InsuranceService.Api.Controllers.EligibilityController",
+    "Method": "Verify",
+    "RelativePath": "api/eligibility/verify",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CareBridge.InsuranceService.Api.Models.EligibilityRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
